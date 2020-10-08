@@ -1,0 +1,7 @@
+= <<Title>>
+Doc Writer <christian.popescu@outlook.com>
+v <<Version>>, <<Date>>
+:sectnums:
+:toc:
+:toclevels: 5
+
