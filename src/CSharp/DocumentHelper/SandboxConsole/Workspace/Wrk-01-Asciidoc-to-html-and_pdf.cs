@@ -16,8 +16,8 @@ namespace SandboxConsole.Workspace
 
             var process = new Process();
             process.StartInfo.FileName = "cmd.exe";
-            process.StartInfo.Arguments = "/c asciidoctorj.bat -b pdf Qt.adoc";
-            process.StartInfo.WorkingDirectory = @"D:\ccp_wrks\KnowledgeManagement\content\GuiFrameworks\Qt";
+            process.StartInfo.Arguments = "/c asciidoctorj.bat -b html WorkLog.adoc";
+            process.StartInfo.WorkingDirectory = @"D:\ccp_wrks\DocumentHelper\swe";
             process.StartInfo.RedirectStandardOutput = true;
             process.StartInfo.UseShellExecute = false;
             process.StartInfo.CreateNoWindow = true;
