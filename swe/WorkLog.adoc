@@ -1,4 +1,5 @@
 = Worklog
+:allow-uri-read:
 
 == 29/09/2025 - Reactivate project
 
