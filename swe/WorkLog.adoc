@@ -30,7 +30,8 @@ include::../src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-t
 
 [source]
 ----
-link::https://github.com/christianpopescu/DocumentHelper/blob/main/src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-to-html-and_pdf.cs[]
+
+https://github.com/christianpopescu/DocumentHelper/blob/main/src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-to-html-and_pdf.cs[]
 ----
 
 include::https://github.com/christianpopescu/DocumentHelper/blob/main/src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-to-html-and_pdf.cs[]
