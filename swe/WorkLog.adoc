@@ -32,6 +32,8 @@ include::../src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-t
 include::https://github.com/christianpopescu/DocumentHelper/blob/main/src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-to-html-and_pdf.cs[]
 ----
 
+include::https://github.com/christianpopescu/DocumentHelper/blob/main/src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-to-html-and_pdf.cs[]
+
 Result
 
 image::img/01-AsciidoctorJ.png[]
