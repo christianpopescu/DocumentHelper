@@ -1,0 +1,9 @@
+= Notes on project
+
+== Purpose
+
+* Helper to generate pdf and html from adoc / markdown files
+
+For asciidoctor I assume that asciidoctorj is installed on computer.
+
+* Generate documents from pattern (data folder).
