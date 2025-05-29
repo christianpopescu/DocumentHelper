@@ -1,3 +1,12 @@
 = Worklog
 
 == 29/09/2025 - Reactivate project
+
+
+
+[source, bash]
+----
+##  Create C# solution that contains C# project console
+dotnet new sln -n DocumentHelper
+
+----
