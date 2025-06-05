@@ -1,0 +1,16 @@
+= Backlog
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2025-06-05
+:sectnums:
+:toc:
+:toclevels: 5
+
+== Introduction 
+
+This documents helps to keeps and manage backlog.
+
+== Backlog list
+
+=== 01 - Simple documentation structure
+
+Define simple documentation structure as static site and asciidoc element.
