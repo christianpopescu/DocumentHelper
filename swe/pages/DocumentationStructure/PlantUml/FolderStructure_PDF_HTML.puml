@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+folder AsciiDocDocument {
+    file "MainAsciidocFile.adoc"
+    file ""MainAsciidocFile.pdf"
+    file "MainAsciidocFile.html"
+
+    folder "img" {
+        file "image_1.png"
+        file "image_*.png"
+        file "image_n.png"
+        file "PlantUml_1.svg"
+        file "PlantUml_*.svg"
+        file "PlantUml_n.svg"
+    }
+    folder "PlantUml" {
+        file "PlantUml_1.puml"
+        file "PlantUml_*.puml"
+        file "PlantUml_n.puml"
+    }
+}
+@enduml

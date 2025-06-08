@@ -1,0 +1,43 @@
+= Documentation structure
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2025-06-07
+:sectnums:
+:toc:
+:toclevels: 5
+:imagesdir: {docdir}/img
+:imagesoutdir: {docdir}/img
+
+== Description
+
+This defines the documentation structure and what happens when the documentation is created
+
+A document has a main asciidoc file that includes images from *img* folder and PlantUml documents from *PlantUml* document.
+
+
+[plantuml, DocumentFolder , svg]
+----
+include::PlantUml/FolderStructure.puml[]
+----
+
+== Documentation creation
+
+=== Pdf documentation
+
+When Pdf documentation is created the pdf file is created nearby of asciidoc main file.
+
+=== HTML documentation
+
+When HTML documentation is created:
+
+* The pictures generated from PlantUml files are generated in *img* folder.
+
+* The HTML file is created nearby of asciidoc file. The images used by HTML are stored in *img* folder.
+
+See below an example after PDF and HTML documents generated.
+
+[plantuml, DocumentFolder_pdf_html , svg]
+----
+include::PlantUml/FolderStructure_PDF_HTML.puml[]
+----
+
+
