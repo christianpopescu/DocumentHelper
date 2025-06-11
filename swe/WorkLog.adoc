@@ -32,3 +32,11 @@ include::../src/CSharp/DocumentHelper/SandboxConsole/Workspace/Wrk-01-Asciidoc-t
 Result
 
 image::img/01-AsciidoctorJ.png[]
+
+== 08/06/2025
+
+Backlog 01 - Done
+
+== 11/06/2025
+
+Some reorganization prepare for Backlog 02.
